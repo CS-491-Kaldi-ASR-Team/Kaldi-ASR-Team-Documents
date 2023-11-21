@@ -1,2 +1,2 @@
 # Documents
-Used for uploading documents related to the Kaldi Research Team
+This repository is used for uploading documents related to the Kaldi Research Team
